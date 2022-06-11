@@ -2,6 +2,8 @@
 MODEL_1
 
 Model
+
+
 ![Model1_model](https://user-images.githubusercontent.com/95458916/173179886-33405106-5ce5-49e0-b5f6-5cd8d8bf23e5.PNG)
 
 Training with Training loss
