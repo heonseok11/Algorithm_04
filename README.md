@@ -1,9 +1,11 @@
 # Algorithm_04
-Model_1
-![Model1](https://user-images.githubusercontent.com/95458916/173178876-e12240c5-1277-4177-8b6a-53510afe309b.PNG)
-
-Model_2
-![Model2](https://user-images.githubusercontent.com/95458916/173179061-d1c1dfb0-f6a2-46a1-9eb3-073d660b5f4a.PNG)
-
-Model_3
-![Model3](https://user-images.githubusercontent.com/95458916/173179220-e05dc339-ba03-4321-9b2d-6469a0e9b0c1.PNG)
+1. Model
+![Model1_model](https://user-images.githubusercontent.com/95458916/173179886-33405106-5ce5-49e0-b5f6-5cd8d8bf23e5.PNG)
+2. Training with Training loss
+![Model1_training](https://user-images.githubusercontent.com/95458916/173179892-f82e8221-1423-4d00-ac7f-8e7742341e0b.PNG)
+3. Test Accuracy
+![Model1_test](https://user-images.githubusercontent.com/95458916/173179894-122d6b6a-cf96-4fe8-816d-22592e015c39.PNG)
+4. Images and corresponding probability that predicted Right
+![Model1_testImage](https://user-images.githubusercontent.com/95458916/173179897-7f151c20-6890-4789-9f43-6bdaf73d940d.PNG)
+5. Images and corresponding probability that predicted Wrong
+![Model1_result](https://user-images.githubusercontent.com/95458916/173179899-38d4157c-284c-4797-bfd2-e22043d18c98.PNG)
