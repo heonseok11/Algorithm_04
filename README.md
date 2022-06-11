@@ -5,6 +5,10 @@
 2. Training with Training loss
 ![Model1_training](https://user-images.githubusercontent.com/95458916/173179892-f82e8221-1423-4d00-ac7f-8e7742341e0b.PNG)
 
+
+
+
+
 3. Test Accuracy
 ![Model1_test](https://user-images.githubusercontent.com/95458916/173179894-122d6b6a-cf96-4fe8-816d-22592e015c39.PNG)
 
