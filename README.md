@@ -31,8 +31,8 @@
 
 ![Model2_test](https://user-images.githubusercontent.com/95458916/173180544-1e33d76e-105f-4499-93dd-b2a40b3ab17c.PNG)
 
-4.Images and corresponding probability that predicted Right
+4. Images and corresponding probability that predicted Right
 ![Model2_testImage](https://user-images.githubusercontent.com/95458916/173180546-c441bfb5-f245-4460-8773-57a1eabb6674.PNG)
 
-5.Images and corresponding probability that predicted Wrong
+5. Images and corresponding probability that predicted Wrong
 ![Model2_result](https://user-images.githubusercontent.com/95458916/173180549-258e1363-5579-41c3-be9f-f4f9a6717e56.PNG)
